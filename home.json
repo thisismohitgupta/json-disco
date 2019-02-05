@@ -1,1 +1,96 @@
-
+{
+  "AdBanner": [
+    [
+      "https://s3images.coroflot.com/user_files/individual_files/344609_tfxfnhsf7ywzxyyddwburk60q.jpg"
+    ],
+    "https://s3images.coroflot.com/user_files/individual_files/344609_tfxfnhsf7ywzxyyddwburk60q.jpg"
+  ],
+  "category": {
+    "orientation": "vertical",
+    "nodes": {
+      "0": {
+        "image": "https://images.pexels.com/photos/58997/pexels-photo-58997.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Pet",
+        "id": "SOMEID"
+      },
+      "1": {
+        "image": "https://cdn.firstcrycdn.com/2018/03/446808145-H.jpg",
+        "name": "Food",
+        "id": "SOMEID"
+      },
+      "2": {
+        "image": "https://img.purch.com/rc/300x200/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA4NS83Njgvb3JpZ2luYWwvcGFja2FnZWQtdmVnZXRhYmxlcy5qcGc=",
+        "name": "Vegies",
+        "id": "SOMEID"
+      },
+      "3": {
+        "image": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/C3A4FAA4-04EE-BC35-A4F9C5DC19A615F9.jpg",
+        "name": "Cleaning",
+        "id": "SOMEID"
+      },
+      "4": {
+        "image": "https://d3gyiijzpk1c44.cloudfront.net/upload/product_photos/base/0/53/96/medium1.3498204.2.jpg",
+        "name": "Beauty",
+        "id": "SOMEID"
+      },
+      "5": {
+        "image": "https://www.cccreationsusa.com/wp-content/uploads/2017/12/clothes-hanging-862x493.jpg",
+        "name": "Clothes",
+        "id": "SOMEID"
+      },
+      "6": {
+        "image": "https://cdn.schlotzskys.com/-/media/schlotzskys/menu/beverages/coke-products_874x440.jpg?v=1&d=20180223T164426Z",
+        "name": "Beverages",
+        "id": "SOMEID"
+      },
+      "7": {
+        "image": "https://www.imperialdist.com/wp-content/uploads/2016/02/Pic-1.jpg",
+        "name": "Wellness",
+        "id": "SOMEID"
+      }
+    }
+  },
+  "deal": {
+    "0": {
+      "id": "SOME DEAL ID",
+      "name": "Get 50% off on shit",
+      "products": [
+        {
+          "name": "Vicks",
+          "image": "someimage",
+          "id": "1827312983",
+          "mrp": 43,
+          "sp": 23
+        },
+        {
+          "name": "Vicks",
+          "image": "someimage",
+          "id": "1827312983",
+          "mrp": 43,
+          "sp": 23
+        },
+        {
+          "name": "Vicks",
+          "image": "someimage",
+          "id": "1827312983",
+          "mrp": 43,
+          "sp": 23
+        },
+        {
+          "name": "Vicks",
+          "image": "someimage",
+          "id": "1827312983",
+          "mrp": 43,
+          "sp": 23
+        },
+        {
+          "name": "Vicks",
+          "image": "someimage",
+          "id": "1827312983",
+          "mrp": 43,
+          "sp": 23
+        }
+      ]
+    }
+  }
+}
